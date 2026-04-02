@@ -1,40 +1,100 @@
 {
-    "name": "Pyon (Rosie Colors)",
-    "description": "RosieDark palette adapted to Pyon format",
-    "authors": [
-        {
-            "name": "Tanery",
-            "id": "650805815623680020"
-        }
-    ],
-    "semanticColors": {
-        "HEADER_PRIMARY": ["#E792C5"],
-        "HEADER_SECONDARY": ["#FFEFFF"],
-        "TEXT_NORMAL": ["#FBFBFB"],
-        "TEXT_MUTED": ["#E792C1"],
-        "MOBILE_TEXT_HEADING_PRIMARY": ["#FBFBFB"],
-        "INTERACTIVE_HOVER": ["#DEDCDE"],
-        "INTERACTIVE_ACTIVE": ["#FFFFFF"],
-        "INTERACTIVE_MUTED": ["#BF8AB0"],
+  "name": "Pyon (Rosie Colors)",
+  "description": "RosieDark palette adapted to Pyon format",
+  "authors": [
+    {
+      "name": "Tanery",
+      "id": "650805815623680020"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#E792C5"],
+    "HEADER_SECONDARY": ["#FFEFFF"],
+    "TEXT_NORMAL": ["#FBFBFB"],
+    "TEXT_MUTED": ["#E792C1"],
+    "MOBILE_TEXT_HEADING_PRIMARY": ["#FBFBFB"],
+    "INTERACTIVE_HOVER": ["#DEDCDE"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#BF8AB0"],
 
-        "BACKGROUND_PRIMARY": ["#271927"],
-        "BACKGROUND_SECONDARY": ["#18141A"],
-        "BACKGROUND_SECONDARY_ALT": ["#271927"],
-        "BACKGROUND_SURFACE_HIGH": ["#151216"],
-        "CARD_BACKGROUND_DEFAULT": ["#0D0C0E"],
-        "BACKGROUND_TERTIARY": ["#0F0B0F"],
+    "BACKGROUND_PRIMARY": ["#271927"],
+    "BACKGROUND_SECONDARY": ["#18141A"],
+    "BACKGROUND_SECONDARY_ALT": ["#271927"],
+    "BACKGROUND_SURFACE_HIGH": ["#151216"],
+    "CARD_BACKGROUND_DEFAULT": ["#0D0C0E"],
+    "BACKGROUND_TERTIARY": ["#0F0B0F"],
 
-        "BACKGROUND_ACCENT": ["#FFB5F3"],
-        "BACKGROUND_FLOATING": ["#0e0b0e"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#080608"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#18131A"],
-        "BACKGROUND_NESTED_FLOATING": ["#131014"],
+    "BACKGROUND_ACCENT": ["#FFB5F3"],
+    "BACKGROUND_FLOATING": ["#0e0b0e"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#080608"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#18131A"],
+    "BACKGROUND_NESTED_FLOATING": ["#131014"],
 
-        "BACKGROUND_MESSAGE_HOVER": ["#3D2C37"],
-        "BACKGROUND_MODIFIER_HOVER": ["#3D2C37"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#3D2C37"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#f48fb133"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#1D191F"],
+    "BACKGROUND_MESSAGE_HOVER": ["#3D2C37"],
+    "BACKGROUND_MODIFIER_HOVER": ["#3D2C37"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#3D2C37"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#f48fb133"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#1D191F"],
+
+    "SCROLLBAR_THIN_THUMB": ["#00000000"],
+    "SCROLLBAR_THIN_TRACK": ["#00000000"],
+    "SCROLLBAR_AUTO_THUMB": ["#00000000"],
+    "SCROLLBAR_AUTO_TRACK": ["#f48fb1"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#111111"],
+    "CHANNELS_DEFAULT": ["#9c9c9c"],
+    "TEXT_LINK": ["#ffbaf2"],
+    "TEXT_DANGER": ["#f48fb1"],
+
+    "KEYBOARD": ["#181419"],
+    "BG_BACKDROP": ["#000000b2"],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#2b232f"],
+    "CHANNEL_ICON": ["#e7c6db"],
+    "CHAT_BACKGROUND": ["#0e0c0e"],
+    "CARD_PRIMARY_BG": ["#0D0C0E"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#ffffff",
+    "PRIMARY_300": "#f48fb1",
+    "PRIMARY_360": "#fcfdfc",
+    "PRIMARY_400": "#ffffff",
+    "PRIMARY_600": "#0d0c0e",
+    "PRIMARY_630": "#151216",
+    "PRIMARY_660": "#18141a",
+    "PRIMARY_700": "#18141a",
+    "PRIMARY_800": "#181419",
+
+    "BLACK_500": "#000000b2",
+
+    "BRAND_260": "#ff9ecb",
+    "BRAND_360": "#e68eb7",
+    "BRAND_500": "#c2789b",
+    "BRAND_560": "#b36f8e",
+
+    "WHITE_500": "#FEFFFF",
+
+    "PLUM_20": "#0d0c0e",
+    "PLUM_17": "#282023",
+    "PLUM_13": "#e7c6db",
+    "PLUM_16": "#392e36",
+    "PLUM_23": "#271927"
+  },
+
+  "background": {
+    "blur": 0.1,
+    "url": "https://raw.githubusercontent.com/Rairof/Discord-Theme/main/Wallpapers/RosieDarkBG.png"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy"
+  },
+
+  "spec": 2
+}        "BACKGROUND_MODIFIER_ACCENT": ["#1D191F"],
 
         "SCROLLBAR_THIN_THUMB": ["#00000000"],
         "SCROLLBAR_THIN_TRACK": ["#00000000"],
