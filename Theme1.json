@@ -21,7 +21,7 @@
             "#E792C1"
         ],
         "MOBILE_TEXT_HEADING_PRIMARY": [
-            "#e0deff"
+            "#fbfbfb"
         ],
         "INTERACTIVE_HOVER": [
             "#DEDCDE"
@@ -42,10 +42,10 @@
             "#271927"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#26253b"
+            "#18141A"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#26253b"
+            "#151216"
         ],
         "BACKGROUND_TERTIARY": [
             "#0f0b0f"
@@ -102,7 +102,7 @@
             "#ffbaf2"
         ],
         "TEXT_DANGER": [
-            "#6b68a3"
+            "#f48fb1"
         ],
         "KEYBOARD": [
             "#181419"
@@ -149,7 +149,7 @@
         "PLUM_17": "#282023",
         "PLUM_13": "#e7c6db",
         "PLUM_16": "#392e36",
-        "PLUM_23": "#26253b"
+        "PLUM_23": "#1C1616"
     },
     "background": {
         "blur": 0.1,
