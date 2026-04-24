@@ -4,10 +4,9 @@
   "description": "The official addon for movie and series catalogs",
   "name": "Cinemeta",
   "resources": [
-    
+    "catalog",
     "meta",
-    
-  ],
+    "addon_catalog"
   "types": [
     "movie",
     "series"
